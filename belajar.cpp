@@ -22,5 +22,9 @@ int main(){
     int add = a + b;
     cout << "hasil dari penambahan antara a dan b adalah: " << add;
 
+    cout << endl;
+    int subtract = a - b;
+    cout << "hasil dari pengurangan antara a dan b adalah: " << subtract;
+
     return 0;
 }
