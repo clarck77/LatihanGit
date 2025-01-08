@@ -18,5 +18,9 @@ int main(){
     int divide = a / b;
     cout << "hasil dari pembagian antara a dan b adalah: " << divide;
 
+    cout << endl;
+    int add = a + b;
+    cout << "hasil dari penambahan antara a dan b adalah: " << add;
+
     return 0;
 }
