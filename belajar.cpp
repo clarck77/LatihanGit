@@ -10,18 +10,22 @@ int main(){
     cout << "input b: ";
     cin >> b;
 
+    // menambahkan fungsi perkalian antara a dan b
     cout << endl;
     int multiplication = a * b;
     cout << "hasil dari perkalian antara a dan b adalah: " << multiplication;
 
+    // menambahkan fungsi pembagian pada a dan b
     cout << endl;
     int divide = a / b;
     cout << "hasil dari pembagian antara a dan b adalah: " << divide;
 
+    // menambahkan fungsi penambahan pada a dan b
     cout << endl;
     int add = a + b;
     cout << "hasil dari penambahan antara a dan b adalah: " << add;
 
+    // menambahkan fungsi pengurangan antara a dan b
     cout << endl;
     int subtract = a - b;
     cout << "hasil dari pengurangan antara a dan b adalah: " << subtract;
